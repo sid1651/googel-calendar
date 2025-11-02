@@ -16,3 +16,6 @@ GOOGLE_CLIENT_ID=536749306921-cubtiapc7il77kjq3lk49n0dt5onpe8m.apps.googleuserco
 
  then cd client 
  npm run dev
+<img width="1902" height="1042" alt="image" src="https://github.com/user-attachments/assets/ea231b5f-72cf-48e4-85a7-81e0f920a162" />
+
+
